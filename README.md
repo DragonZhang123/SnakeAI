@@ -1,0 +1,2 @@
+# SnakeAI
+a smart snake
